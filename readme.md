@@ -1,4 +1,4 @@
-##Simple Blog with Laravel + ReactJs
+#Simple Blog with Laravel + ReactJs
 
 - clone repository
 - composer install
